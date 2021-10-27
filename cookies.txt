@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sedip.de	TRUE	/	FALSE	1999999999	PHPSESSID	85d9d5d42364b7652d1229f2146422e9
+sedip.de	TRUE	/	FALSE	1999999999	SameSite	Strict
+
